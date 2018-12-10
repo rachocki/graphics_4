@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\corvus\source\repos\graphicsproject4\graphicsproject4\main.cpp(145): warning C4018: '<': signed/unsigned mismatch
+c:\users\corvus\source\repos\graphicsproject4\graphicsproject4\main.cpp(234): warning C4018: '<': signed/unsigned mismatch
+  GraphicsProject4.vcxproj -> C:\Users\Corvus\source\repos\GraphicsProject4\Debug\GraphicsProject4.exe
